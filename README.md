@@ -1,6 +1,7 @@
 # BadRatMoniter [ V1 ] 
 _This software is not intended for the use of malicous doing_
 
+_For best results, convert [connector.py] to an .EXE before sharing it_
 # Features 
 
 > Screenshot taker.
