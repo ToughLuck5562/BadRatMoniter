@@ -3,10 +3,10 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-WebsiteURL = "https://youtube.com"
+WebsiteURL = ""
 Webhook = None
 Command = 1 # Preset commands are 1 [WEBSITE VISITOR], and 2 [SCREENSHOT].
-Code = "import webbrowser; webbrowser.open('youtube.com')"
+Code = ""
 
 @app.route("/")
 def quit():
