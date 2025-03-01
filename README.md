@@ -26,4 +26,4 @@ _For best results, convert [connector.py] to an .EXE before sharing it_
 
 # Code Execution Examples
 
-_Code = "import os; os.system('start \"\" \"https://example.com\"')"_ ` This will open up the users webbrowser and go to the specified website. `
+`_Code = "import os; os.system('start \"\" \"https://example.com\"')"_ ` ` This will open up the users webbrowser and go to the specified website. `
