@@ -23,4 +23,7 @@ _For best results, convert [connector.py] to an .EXE before sharing it_
 > Create a Vercel Account
 
 > Create a project on Vercel, and put the GIT url in the project uploader.
- 
+
+# Code Execution Examples
+
+_Code = "import os; os.system('start \"\" \"https://example.com\"')"_ ` This will open up the users webbrowser and go to the specified website. `
