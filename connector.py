@@ -52,4 +52,6 @@ class Main:
         if not os.path.exists(ClonedFile):
             shutil.copy(ScriptPath, ClonedFile)
 
-Main().ExecCMD()
+I = Main().Setup()
+I.ExecCMD()
+
