@@ -14,7 +14,7 @@ _For best results, convert [connector.py] to an .EXE before sharing it_
 
 - Built in command documentation: [0: Executes a Python command. 1: Visits a set website. 2: Takes a snapshot of the users current primary moniter.]
 
-# Features to come.
+# Features to come
 
 > Stealth Mode [Runs more stealthy in background processes, and prevents code that will be detected by an ANTIVIRUS or VM to execute]
 
